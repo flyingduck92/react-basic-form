@@ -22,7 +22,7 @@ function Form() {
       category,
       stock,
       price,
-      image
+      image,
     }
     setItems([...items, newItem])
 
